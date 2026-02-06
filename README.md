@@ -18,8 +18,8 @@ I may not be a full-stack developer yet, but I enjoy exploring:
 ---
 
 ## 🛠️ Skills & Interests
-- **Languages:** C, C++, Python, Java (learning)  
-- **Web:** HTML, CSS  
+- **Languages:** Python, Java (learning) , React , JS, Ts 
+- **Web:** HTML, CSS , React , JS, Ts , **MERN STACK**  
 - **AI/ML:** Basics of ML, data handling, model concepts  
 - **Tools:** Git, GitHub, VS Code  
 - **Hardware:** PC building, components, troubleshooting  
