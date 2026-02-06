@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jayasakthi
+#  Hi, I'm Jayasakthi
 
 🎓 **B.Tech CSE (AI & ML)** Student  
 💻 **Aspiring Developer | Tech Learner | PC Hardware Enthusiast**
@@ -8,12 +8,6 @@
 ## 🚀 About Me
 I’m a Computer Science and Engineering student specializing in **Artificial Intelligence & Machine Learning**.  
 I focus on building strong fundamentals, learning by practice, and improving step by step.
-
-I may not be a full-stack developer yet, but I enjoy exploring:
-- Programming & problem-solving  
-- AI / ML concepts  
-- Web development basics  
-- PC building & computer hardware  
 
 ---
 
@@ -36,6 +30,8 @@ I may not be a full-stack developer yet, but I enjoy exploring:
 
 ## 🌱 Learning Philosophy
 > Learn → Practice → Improve → Repeat  
+
+![snake gif](https://github.com/Jayasakthi-07/Jayasakthi-07/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mikasa.py) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakthi_tharmarajan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayasakthi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@jayasakthi_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayasakthidharmarajan@gmail.com) 
