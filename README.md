@@ -11,19 +11,9 @@ I focus on building strong fundamentals, learning by practice, and improving ste
 
 ---
 
-## 🛠️ Skills & Interests
-- **Languages:** Python, Java (learning) , React , JS, Ts 
-- **Web:** HTML, CSS , React , JS, Ts , **MERN STACK**  
-- **AI/ML:** Basics of ML, data handling, model concepts  
-- **Tools:** Git, GitHub, VS Code  
-- **Hardware:** PC building, components, troubleshooting  
-
----
-
 ## 📚 Current Focus
 - Strengthening core CS concepts  
 - Practicing coding daily  
-- Learning AI/ML step by step  
 - Building small projects and improving them  
 
 ---
