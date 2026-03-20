@@ -1,6 +1,6 @@
-#  Hi, I'm Jayasakthi
+#  Hi, I'm Jayasakthi 
 
-🎓 **B.Tech CSE (AI & ML)** Student  
+🎓 **B.Tech CSE (AI & ML) Specialization** Student  
 💻 **Aspiring Developer | Tech Learner | PC Hardware Enthusiast**
 
 ---
