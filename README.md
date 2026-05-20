@@ -1,99 +1,175 @@
-#  Hi, I'm Jayasakthi 
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ✦  Jayasakthi  ·  GitHub README                             
+     ✦  Premium edition — modular sections, consistent theme     
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-🎓 **B.Tech CSE (AI & ML) Specialization** Student  
-💻 **Aspiring Developer | Tech Learner | PC Hardware Enthusiast**
+<!-- ─────────────────────────  HERO BANNER  ───────────────────────── -->
 
----
+<a href="https://github.com/Jayasakthi-07">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=240&section=header&text=Jayasakthi&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20·%20AI%20%26%20ML%20Specialization&descAlign=50&descAlignY=60&descSize=18" width="100%" alt="header banner" />
+</a>
 
-## 🚀 About Me
-I’m a Computer Science and Engineering student specializing in **Artificial Intelligence & Machine Learning**.  
-I focus on building strong fundamentals, learning by practice, and improving step by step.
+<!-- ─────────────────────────  TYPING SVG  ────────────────────────── -->
 
----
+<div align="center">
 
-## 📚 Current Focus
-- Strengthening core CS concepts  
-- Practicing coding daily  
-- Building small projects and improving them  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&height=50&lines=AI+%26+ML+Specialization+Student;Aspiring+Full-Stack+Developer;Tech+Learner+%7C+PC+Hardware+Enthusiast;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat)](https://git.io/typing-svg)
 
----
+<a href="https://github.com/Jayasakthi-07?tab=followers">
+  <img src="https://img.shields.io/github/followers/Jayasakthi-07?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github" alt="followers" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Jayasakthi-07&icon=0&color=12" alt="visitors" />
+</a>
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-EC4899?style=for-the-badge&labelColor=0D1117" alt="focus" />
 
-## 🌱 Learning Philosophy
-> Learn → Practice → Improve → Repeat  
+</div>
 
-![snake gif](https://github.com/Jayasakthi-07/Jayasakthi-07/blob/output/github-snake-dark.svg)
+<br/>
 
-## 🌐 Connect with Me
+<!-- ─────────────────────────  ABOUT ME  ──────────────────────────── -->
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mikasa.py)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sakthi_tharmarajan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayasakthi)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@jayasakthi_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayasakthidharmarajan@gmail.com)
+## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></picture> &nbsp;About Me
 
----
+```ts
+const jayasakthi = {
+  role        : "B.Tech CSE · AI & ML Specialization",
+  location    : "India 🇮🇳",
+  focus       : ["Core CS Fundamentals", "AI / ML", "Full-Stack Dev"],
+  currently   : "Building small projects · practicing daily",
+  philosophy  : "Learn → Practice → Improve → Repeat",
+  fuel        : ["☕ coffee", "🎮 games", "🛠️ hardware tinkering"],
+};
+```
 
-## 💻 Tech Arsenal
+> *Strong fundamentals over fast frameworks. Code, ship, iterate.*
 
-### Core Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<br/>
 
-### Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+<!-- ─────────────────────────  TECH ARSENAL  ──────────────────────── -->
 
-### Backend, Cloud & Databases
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"></picture> &nbsp;Tech Arsenal
 
-### Data, AI & Tooling
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,java,js,ts,kotlin,dart,php,c,cs" alt="languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap,electron" alt="frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,django,dotnet,php" alt="backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,cassandra" alt="databases" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud &amp; Deploy</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" alt="cloud" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools &amp; VCS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,jest,postman" alt="tools" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Creative</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,unreal" alt="creative" /></td>
+  </tr>
+</table>
 
-### Creative & Game Tech
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jayasakthi-07&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jayasakthi-07&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasakthi-07&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ─────────────────────────  GITHUB ANALYTICS  ──────────────────── -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## <picture><img src="https://media.giphy.com/media/W5ePzqRWmiOylY3CY3/giphy.gif" width="28"></picture> &nbsp;GitHub Analytics
 
----
-[![](https://visitcount.itsvg.in/api?id=Jayasakthi-07&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://github.com/Jayasakthi-07">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayasakthi-07&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=ffffff&include_all_commits=true&count_private=true&show_icons=true" alt="stats" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Jayasakthi-07&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6" alt="streak" />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasakthi-07&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="top-langs" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayasakthi-07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&area_color=8B5CF6" width="98%" alt="activity-graph" />
+</div>
+
+<br/>
+
+<!-- ─────────────────────────  TROPHIES  ──────────────────────────── -->
+
+## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"></picture> &nbsp;Trophy Cabinet
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jayasakthi-07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ─────────────────────────  SNAKE  ─────────────────────────────── -->
+
+## <picture><img src="https://media.giphy.com/media/RkVRZc8tfDGmI/giphy.gif" width="28"></picture> &nbsp;Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayasakthi-07/Jayasakthi-07/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayasakthi-07/Jayasakthi-07/output/github-snake.svg" />
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/Jayasakthi-07/Jayasakthi-07/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ─────────────────────────  QUOTE  ─────────────────────────────── -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</div>
+
+<br/>
+
+<!-- ─────────────────────────  CONNECT  ───────────────────────────── -->
+
+## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"></picture> &nbsp;Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/jayasakthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/jayasakthi_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/sakthi_tharmarajan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://discord.gg/mikasa.py"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:jayasakthidharmarajan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────  FOOTER  ────────────────────────────── -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
+
+<div align="center">
+  <sub>⚡ <i>Thanks for stopping by — build something cool today.</i></sub>
+</div>
