@@ -6,13 +6,7 @@
 
 <!-- ─────────────────────────────  HERO  ────────────────────────────── -->
 
-<a href="https://github.com/Jayasakthi-07">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=280&section=header&text=Jayasakthi&fontSize=90&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=B.Tech%20CSE%20%C2%B7%20AI%20%26%20ML%20Specialization&descAlign=50&descAlignY=60&descSize=20"
-    width="100%"
-    alt="header"
-  />
-</a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=280&section=header&text=Jayasakthi&fontSize=90&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=B.Tech%20CSE%20%C2%B7%20AI%20%26%20ML%20Specialization&descAlign=50&descAlignY=60&descSize=20)
 
 
 <!-- ──────────────────────────  TYPING  ─────────────────────────────── -->
