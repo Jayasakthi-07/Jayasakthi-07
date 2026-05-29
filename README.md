@@ -6,7 +6,7 @@
 
 <!-- ─────────────────────────────  HERO  ────────────────────────────── -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=280&section=header&text=Jayasakthi&fontSize=90&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=B.Tech%20CSE%20%C2%B7%20AI%20%26%20ML%20Specialization&descAlign=50&descAlignY=60&descSize=20)
+![header](header.svg)
 
 
 <!-- ──────────────────────────  TYPING  ─────────────────────────────── -->
@@ -177,7 +177,7 @@ const jayasakthi: Developer = {
 
 <!-- ────────────────────────────  FOOTER  ───────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=160&section=footer&animation=twinkling" width="100%" alt="footer" />
+![footer](footer.svg)
 
 <div align="center">
 <sub>⚡ &nbsp; <i>Thanks for stopping by — now go build something cool.</i> &nbsp; ⚡</sub>
