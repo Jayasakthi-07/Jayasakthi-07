@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280">
+  <defs>
+
+    <!-- Main diagonal gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#6366F1"/>
+      <stop offset="50%"  stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+
+    <!-- Radial centre glow for depth -->
+    <radialGradient id="glow" cx="50%" cy="44%" r="52%">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Twinkling star animation -->
+    <style>
+      @keyframes tw {
+        0%,100% { opacity:.12; transform:scale(.65); }
+        50%      { opacity:.95; transform:scale(1.35); }
+      }
+      .star {
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: tw 2.8s ease-in-out infinite;
+      }
+      .s0  { animation-delay: 0s;    }
+      .s1  { animation-delay: .32s;  }
+      .s2  { animation-delay: .64s;  }
+      .s3  { animation-delay: .96s;  }
+      .s4  { animation-delay: 1.28s; }
+      .s5  { animation-delay: 1.60s; }
+      .s6  { animation-delay: 1.92s; }
+      .s7  { animation-delay: 2.24s; }
+      .s8  { animation-delay: .16s;  }
+      .s9  { animation-delay: .80s;  }
+      .s10 { animation-delay: 1.44s; }
+      .s11 { animation-delay: 2.08s; }
+      .s12 { animation-delay: .48s;  }
+      .s13 { animation-delay: 1.12s; }
+    </style>
+
+  </defs>
+
+  <!-- ── Background layers ─────────────────────────────────────── -->
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#glow)"/>
+
+  <!-- ── Twinkling stars ───────────────────────────────────────── -->
+  <circle class="star s0"  cx="65"   cy="34"  r="2.4" fill="#fff"/>
+  <circle class="star s1"  cx="188"  cy="58"  r="1.7" fill="#fff"/>
+  <circle class="star s2"  cx="312"  cy="20"  r="2.8" fill="#fff"/>
+  <circle class="star s3"  cx="470"  cy="46"  r="1.9" fill="#fff"/>
+  <circle class="star s4"  cx="594"  cy="26"  r="2.2" fill="#fff"/>
+  <circle class="star s5"  cx="720"  cy="52"  r="1.7" fill="#fff"/>
+  <circle class="star s6"  cx="862"  cy="30"  r="2.5" fill="#fff"/>
+  <circle class="star s7"  cx="1008" cy="56"  r="1.9" fill="#fff"/>
+  <circle class="star s8"  cx="1138" cy="24"  r="2.1" fill="#fff"/>
+  <circle class="star s9"  cx="130"  cy="170" r="1.6" fill="#fff"/>
+  <circle class="star s10" cx="390"  cy="178" r="1.4" fill="#fff"/>
+  <circle class="star s11" cx="810"  cy="174" r="1.6" fill="#fff"/>
+  <circle class="star s12" cx="1070" cy="168" r="1.4" fill="#fff"/>
+  <circle class="star s13" cx="950"  cy="40"  r="1.8" fill="#fff"/>
+
+  <!-- ── Text ──────────────────────────────────────────────────── -->
+
+  <!-- Title -->
+  <text
+    x="600"
+    y="118"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-size="80"
+    font-weight="700"
+    font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+    letter-spacing="-1.5"
+  >Jayasakthi</text>
+
+  <!-- Subtitle -->
+  <text
+    x="600"
+    y="163"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-size="19"
+    font-weight="400"
+    font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+    letter-spacing="0.6"
+    opacity="0.92"
+  >B.Tech CSE &#183; AI &amp; ML Specialization</text>
+
+  <!-- ── Wave ──────────────────────────────────────────────────── -->
+
+  <!-- Back wave (translucent, higher up) -->
+  <path fill="#ffffff" opacity="0.22"
+    d="M0,206 C220,184 440,236 660,206 C880,176 1060,228 1200,206 L1200,280 L0,280 Z"/>
+
+  <!-- Front wave (solid white, blends into page) -->
+  <path fill="#ffffff"
+    d="M0,236 C160,220 320,256 480,236 C640,216 800,252 960,236 C1040,228 1120,244 1200,236 L1200,280 L0,280 Z"/>
+
+</svg>

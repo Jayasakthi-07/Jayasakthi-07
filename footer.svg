@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#EC4899"/>
+      <stop offset="50%"  stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="60%" r="55%">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      @keyframes tw {
+        0%,100% { opacity:.12; transform:scale(.65); }
+        50%      { opacity:.9;  transform:scale(1.3); }
+      }
+      .star { transform-box:fill-box; transform-origin:center; animation:tw 2.8s ease-in-out infinite; }
+      .s0 { animation-delay:0s; }    .s1 { animation-delay:.4s; }
+      .s2 { animation-delay:.8s; }   .s3 { animation-delay:1.2s; }
+      .s4 { animation-delay:1.6s; }  .s5 { animation-delay:2.0s; }
+      .s6 { animation-delay:2.4s; }  .s7 { animation-delay:.2s; }
+    </style>
+  </defs>
+
+  <!-- Wave top (matches page background) -->
+  <path fill="#ffffff"
+    d="M0,0 L0,40 C160,60 320,24 480,40 C640,56 800,20 960,40 C1040,50 1120,32 1200,40 L1200,0 Z"/>
+
+  <!-- Background -->
+  <rect y="40" width="1200" height="120" fill="url(#bg)"/>
+  <rect y="40" width="1200" height="120" fill="url(#glow)"/>
+
+  <!-- Stars -->
+  <circle class="star s0" cx="120"  cy="90"  r="2"   fill="#fff"/>
+  <circle class="star s1" cx="300"  cy="70"  r="1.6" fill="#fff"/>
+  <circle class="star s2" cx="510"  cy="100" r="2.2" fill="#fff"/>
+  <circle class="star s3" cx="700"  cy="68"  r="1.8" fill="#fff"/>
+  <circle class="star s4" cx="860"  cy="96"  r="2"   fill="#fff"/>
+  <circle class="star s5" cx="1040" cy="72"  r="1.6" fill="#fff"/>
+  <circle class="star s6" cx="1160" cy="100" r="1.8" fill="#fff"/>
+  <circle class="star s7" cx="420"  cy="138" r="1.5" fill="#fff"/>
+</svg>
